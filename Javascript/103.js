@@ -1,4 +1,4 @@
-//Async, Await and Promises
+//Async 
 
 // function findSum(n){
 //     let ans=0
@@ -17,6 +17,8 @@
 //     console.log(data);
 // })
   
+//Promise
+
 
 
 
